@@ -1,0 +1,11 @@
+table,
+    th,
+    td {
+        border: 1px solid rgb(238, 0, 255);
+        border-collapse: collapse;
+        color:rgba(112, 24, 236, 0.832);
+        background-color: rgb(195, 237, 223);
+    }
+    h2{
+        color:rgba(112, 24, 236, 0.832);
+    }
